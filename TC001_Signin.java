@@ -4,7 +4,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class TC1_Signin {
+public class TC001_Signin {
 
 	public static void main(String[] args) {
 		// TODO User logs in with invalid email address
