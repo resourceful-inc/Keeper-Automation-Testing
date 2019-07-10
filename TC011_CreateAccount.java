@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class TC011_CreateAccount {
 
 	public static void main(String[] args) {
-		//*Test Case 5:*
+		//*Test Case 011:*
 		//Summary: Candidate types the confirmed password that doesn't match with the password
 		//Expected Result: It will raise error message "Password do not match"
 		System.setProperty("webdriver.chrome.driver", "/Users/sky/Documents/workspace/Selenium/src/test1/chromedriver");

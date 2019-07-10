@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class TC013_CreateAccount {
 
 	public static void main(String[] args) {
-		//*Test Case 7:*
+		//*Test Case 013:*
 		//Summary: Candidate fills the form properly
 		//Expected Result: It will direct candidate to "How To" sequence page
 		System.setProperty("webdriver.chrome.driver", "/Users/sky/Documents/workspace/Selenium/src/test1/chromedriver");

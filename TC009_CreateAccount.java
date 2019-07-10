@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class TC009_CreateAccount {
 
 	public static void main(String[] args) {
-		//*Test Case 9:*
+		//*Test Case 009:*
 		//Summary: Check the case-sensitive on email address
 		//Expected Result: The email address should not be case-sensitive
 		System.setProperty("webdriver.chrome.driver", "/Users/sky/Documents/workspace/Selenium/src/test1/chromedriver");

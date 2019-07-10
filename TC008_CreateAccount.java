@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class TC008_CreateAccount {
 
 	public static void main(String[] args) {
-		//Test Case 8:
+		//Test Case 008:
 		//Summary: Candidate types the existing email account
 		//Expected Result: It will raise error message "The email address you provided has already been used"
 		System.setProperty("webdriver.chrome.driver", "/Users/sky/Documents/workspace/Selenium/src/test1/chromedriver");

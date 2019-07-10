@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class TC012_CreateAccount {
 
 	public static void main(String[] args) {
-		//*Test Case 6:*
+		//*Test Case 012:*
 		//Summary: Candidate leaves one field missing
 		//Expected Result: It will raise error message "This field is required"
 		System.setProperty("webdriver.chrome.driver", "/Users/sky/Documents/workspace/Selenium/src/test1/chromedriver");
